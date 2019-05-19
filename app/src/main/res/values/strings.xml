@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bobstagram</string>
+
+    <string name="tab1">CALLS</string>
+    <string name="tab2">CHATS</string>
+    <string name="tab3">CONTACTS</string>
+    <string name="gaming">Gaming</string>
+    <string name="my_profile">My Profile</string>
+    <string name="nama_boby_maulana_subagja">Nama : Boby Maulana Subagja</string>
+    <string name="kelas_if_8">Kelas : IF - 8</string>
+    <string name="nim_10116334">NIM : 10116334</string>
+    <string name="hiking">Hiking</string>
+    <string name="reading">Reading</string>
+    <string name="hoby">Hoby :</string>
+    <string name="email">Email :</string>
+    <string name="_087847635406">087847635406</string>
+    <string name="no_hp">No.HP :</string>
+    <string name="boby_ms_email_unikom_ac_id">boby.ms@email.unikom.ac.id</string>
+    <string name="foto">foto</string>
+    <string name="game">game</string>
+    <string name="read">read</string>
+    <string name="hike">hike</string>
+    <string name="profile">Profile</string>
+    <string name="friends">Friends</string>
+    <string name="more">More</string>
+
+</resources>
